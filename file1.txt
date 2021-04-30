@@ -7,3 +7,9 @@ penambahan Layout pada tampilan mobile apps
 Penambahan main Activty 
 
 Penambahan Item Row 
+
+Update Data Terbaru
+
+Membuat Database dalam Android Studio 
+
+INput data Ke App Mobile
