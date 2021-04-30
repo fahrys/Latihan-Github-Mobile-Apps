@@ -13,3 +13,7 @@ Update Data Terbaru
 Membuat Database dalam Android Studio 
 
 INput data Ke App Mobile
+
+Pembuatan List View 
+
+Pembuatan Input type
