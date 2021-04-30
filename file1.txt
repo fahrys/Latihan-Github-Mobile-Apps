@@ -1,3 +1,6 @@
 ini salah satu file latihan github mobile apps 
 
 penambahan baris 
+
+penambahan Layout pada tampilan mobile apps 
+
