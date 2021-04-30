@@ -4,3 +4,6 @@ penambahan baris
 
 penambahan Layout pada tampilan mobile apps 
 
+Penambahan main Activty 
+
+Penambahan Item Row 
